@@ -1,0 +1,17 @@
+# Initialize Git if you haven't already
+git init
+
+# Add your GitHub repository as the remote origin (replace with your actual URL)
+git remote add origin https://github.com/pradeepreajregmi/visit-with-us-mlops.git
+
+# Stage all your scripts, Dockerfile, requirements, and the .github folder
+git add .
+
+# Commit the changes
+git commit -m "Implement end-to-end MLOps pipeline with GitHub Actions"
+
+# Ensure you are on the main branch
+git branch -M main
+
+# Push the code to GitHub
+git push -u origin main
