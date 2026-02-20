@@ -2,7 +2,7 @@
 git init
 
 # Add your GitHub repository as the remote origin (replace with your actual URL)
-git remote add origin https://github.com/pradeepreajregmi/visit-with-us-mlops.git
+git remote add origin https://github.com/pradeepreajregmi/visit-with-us-data.git
 
 # Stage all your scripts, Dockerfile, requirements, and the .github folder
 git add .
