@@ -8,7 +8,7 @@ git remote add origin https://github.com/pradeepreajregmi/visit-with-us-data.git
 git add .
 
 # Commit the changes
-git commit -m "Implement end-to-end MLOps pipeline with GitHub Actions"
+git commit -m "Implement Tourism Project pipeline with GitHub Actions"
 
 # Ensure you are on the main branch
 git branch -M main
